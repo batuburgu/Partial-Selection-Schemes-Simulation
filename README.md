@@ -13,10 +13,10 @@ Simulates and analyzes QAM-based partial selection strategies in AF relaying. In
 📄 **Based On**:  
 > Zhao, Y., Adve, R., & Lim, T. J. (2006).  
 > *Symbol error rate of selection amplify-and-forward relay systems.*  
-> IEEE Transactions on Communications, 54(8), 1323–1328.  
+> IEEE Transactions on Communications, 10(11), 757-759.  
 
 📊 **Reproduces**:
-- **Figure 1 and Figure 2** from the above paper.
+- Figure 1. & Figure 2.
 
 ---
 
@@ -30,4 +30,4 @@ Evaluates BPSK-based partial relay selection in Rayleigh fading environments usi
 > IEEE Transactions on Vehicular Technology, 60(7), 3497–3503.  
 
 📊 **Reproduces**:
-- **Figure 1 and Figure 2** from the above paper.
+- Figure 1. & Figure 2.
