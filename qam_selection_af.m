@@ -1,4 +1,8 @@
-% Makale 12
+% Zhao, Y., Adve, R., & Lim, T. J. (2006). 
+% Symbol error rate of selection amplify-and-forward relay systems. 
+% IEEE Transactions on Communications, 10(11), 757-759.
+% Fig.1 & Fig.2
+
 % Signal to Noise Ratio (SNR)
 SNR1 = 5:1:25; 
 
