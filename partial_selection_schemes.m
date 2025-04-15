@@ -1,4 +1,8 @@
-% Makale 13
+% Chen, Y., Wang, C.-X., Xiao, H., & Yuan, D. (2011). 
+% Novel partial selection schemes for AF relaying in Nakagami-m fading channels. 
+% IEEE Transactions on Vehicular Technology, 60(7), 3497–3503.
+% Fig.1 & Fig.2
+
 % Signal to Noise Ratio (SNR)
 SNR1 = 0:1:30; 
 
